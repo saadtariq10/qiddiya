@@ -1,0 +1,19 @@
+name: qiddiya-access-pass-generator
+type: web
+build:
+  type: docker
+  dockerfile: Dockerfile
+ports:
+  - port: 8000
+    protocol: http
+env:
+  - key: STREAMLIT_SERVER_HEADLESS
+    value: "true"
+  - key: STREAMLIT_SERVER_PORT
+    value: "8000"
+scaling:
+  min: 1
+  max: 3
+resources:
+  memory: 512Mi
+  cpu: 0.5

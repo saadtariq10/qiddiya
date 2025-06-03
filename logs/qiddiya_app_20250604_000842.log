@@ -1,0 +1,14 @@
+2025-06-04 00:08:42,237 - INFO - PIL/Pillow loaded successfully
+2025-06-04 00:08:42,519 - INFO - QR library pyzbar loaded successfully
+2025-06-04 00:08:43,701 - INFO - QR library opencv-python loaded successfully
+2025-06-04 00:08:43,702 - INFO - QR library pyzbar-fallback loaded successfully
+2025-06-04 00:09:20,768 - INFO - Image opened successfully: (1290, 2795)
+2025-06-04 00:09:20,923 - INFO - QR code detected with pyzbar
+2025-06-04 00:09:25,311 - INFO - Image opened successfully: (1290, 2795)
+2025-06-04 00:09:25,439 - INFO - QR code detected with pyzbar
+2025-06-04 00:09:25,462 - INFO - Image opened successfully: (1290, 920)
+2025-06-04 00:09:25,463 - INFO - Template loaded: template.png
+2025-06-04 00:09:25,488 - INFO - Font loaded: fonts/custom_font.ttf
+2025-06-04 00:09:25,610 - INFO - Pass generated successfully for SAAD TARIQ
+2025-06-04 00:09:28,846 - INFO - Image opened successfully: (1290, 2795)
+2025-06-04 00:09:29,009 - INFO - QR code detected with pyzbar
